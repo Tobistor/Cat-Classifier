@@ -1,4 +1,4 @@
-# 🍔👁 Food Vision
-This is a Food Prediction Application using Streamlit.
+# Cat Classification
+This is a Cat classification using Streamlit.
 
 https://
